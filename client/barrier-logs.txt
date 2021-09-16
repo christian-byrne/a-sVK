@@ -1,0 +1,2 @@
+barrierc: a server address or name is required
+Try `barrierc --help' for more information.
